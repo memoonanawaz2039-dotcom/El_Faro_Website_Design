@@ -46,3 +46,13 @@ EL FARO Consultants needed a site that could convert visitors — prospective st
 ---
 
 *This repository is a portfolio record, not a code repository. For the working project, visit [elfaroconsultants.com](https://www.elfaroconsultants.com).*
+## Screenshots
+
+**Homepage**
+![Homepage hero](elfaro_hero_4x3.png)
+
+**Services**
+![Services page](elfaro_services_4x3.png)
+
+**IELTS Coaching Detail Page**
+![IELTS coaching page](elfaro_ielts_4x3.png)
